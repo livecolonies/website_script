@@ -35,7 +35,6 @@ const url="https://app.livecolonies.com/graphql",loadMore=(a,e,i,c="block")=>{co
 				name
 				quantity
 				shared
-				size
 				space
 			}
 			vacancies
@@ -63,7 +62,6 @@ const url="https://app.livecolonies.com/graphql",loadMore=(a,e,i,c="block")=>{co
 				name
 				quantity
 				shared
-				size
 				space
 			}
 			floor
